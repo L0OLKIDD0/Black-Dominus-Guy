@@ -1,10 +1,9 @@
--- this script made by L0OLKIDD0
-
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "Made by L0OLKIDD0";
 	Text = "SUB AND ENJOY!";
 	Icon = "rbxthumb://type=Asset&id=91918175264782&w=150&h=150"})
 Duration = 15;
+
 wait(0.2)
 Player = game:GetService("Players").LocalPlayer
 PlayerGui = Player.PlayerGui
